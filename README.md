@@ -1,4 +1,4 @@
-# 👋 &nbsp;Hi there
+# 👋 &nbsp;Hi there!
 My name is Serhii. I'm java developer based in Kyiv, Ukraine.
 ## 👇 &nbsp;I'm currently working on:
 <br />
