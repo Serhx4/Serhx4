@@ -47,7 +47,7 @@ My name is Serhii. I'm java developer based in Kyiv, Ukraine.
 </div>
 
 ## 🤝 &nbsp;Also I'm takin' a part in these wonderful projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Serhx4&repo=db-constructor&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)]([https://github.com/CyrisXD/Pwnagetty](https://github.com/Serhx4/db-constructor))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Serhx4&repo=db-constructor&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/divizia/db-constructor)
 
 ## 👀 I’m interested in ...
 Open for your offers
