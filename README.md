@@ -1,5 +1,10 @@
 # 👋 &nbsp;Hi there!
 My name is Serhii. I'm java developer based in Kyiv, Ukraine.
+
+My experience with Java started in 2018. 
+Since that time I was able to write many useful things, related to crypto trading, including bots and special trading applications (to collect and analyze market data).
+
+Currently I'm improving my professional skills and open for your offers.
 ## 👇 &nbsp;I'm currently working on:
 <br />
 <div align="center">
@@ -50,8 +55,8 @@ My name is Serhii. I'm java developer based in Kyiv, Ukraine.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Serhx4&repo=db-constructor&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/divizia/db-constructor)
 
 ## 👀 I’m interested in ...
-Open for your offers
+Open for your offers, able to join your project.
 ## 🌱 I’m currently learning
-- Spring
 - Hibernate
+- HTTP / Networks
 - Multithreading
